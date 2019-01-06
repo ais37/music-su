@@ -1,6 +1,6 @@
-﻿token= توكن البوت
-owner= ايدي حسابك 
-prefix= برفكس البوت
-game= 
+token= NTE0Mzk0NTA3ODUzNDMwNzg0.DxP2OQ.usDpljIGbTVnFTrtonp71X8BaXo
+owner= 439102535693762582 
+prefix= su
+game= suplay
 stayinchannel=true 
 songinstatus=false 
